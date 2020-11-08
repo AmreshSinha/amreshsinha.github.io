@@ -1,0 +1,100 @@
+body{
+  background-image: url("112672981-agricultural-sign-icon-gluten-free-or-no-gluten-symbol-colorful-geometric-shapes-gradient-agricultur.jpg");
+  background-size:5%;
+  background-repeat: repeat-x repeat-y;
+}
+
+#post{
+    margin:20px 150px;
+    padding: 10px;
+    border:2px solid #ffcb97;
+    height:1660px;
+    background-color: antiquewhite
+}
+
+div.date
+{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bolder;
+    color: blueviolet;
+    border:3px dashed #0a9149;
+    border-radius:15px;
+    padding: auto;
+    font-size: 30px;
+}
+p.quote{
+    
+    color:#1e2fff;
+    background-color: beige;
+    border:1px dashed black;
+    border-radius:10px;
+    font-size:15px;
+    padding:5px;
+    font-family: verdana;
+    
+}
+h2{
+    font-family:algerian;
+    font-size: 30px;
+    color:#02120f;
+   
+
+}
+div.delta{
+    
+    border:1px  skyblue;
+    border-radius: 10px;
+    font-size:15px;
+    background-color: rgba(255, 187, 0, 0.44);
+    padding:7px;
+    box-shadow:0 0 5px red
+
+}
+div.forge
+{
+    border:1px solid #033bba;
+    font-size:15px;
+    background-color: rgba(45, 225, 232, 0.68);
+    padding:7px;
+   
+}
+
+div.just{
+    border:1px solid #00ba4f;
+    font-size:20px;
+    background-color: rgba(62, 222, 23, 0.76);
+    width:47%;
+    padding:5px;
+    float:right;
+    font-weight:bold;
+    font-family: cursive
+}
+img{
+    border:0.5px black;
+    width:915px;
+    height:500px;
+    margin:5px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #1201d9
+}
+div#img:hover{ transform: translate(0px);
+}
+
+div#link{
+    font-family: verdana;
+    color:rgb(196, 65, 255);
+    border:2px solid white;
+    width:50;
+    border-radius:5px;
+    position: fixed;
+    right: 170PX;
+}
+a:hover{
+    background:rgba(244, 255, 255, 0);
+    color:green;}
+
+footer{
+    clear:both;
+    background-color: black;
+    color:aliceblue;}
